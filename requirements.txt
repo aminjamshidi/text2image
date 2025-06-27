@@ -1,0 +1,5 @@
+uvicorn
+requests
+fastapi
+together
+pydantic-settings
